@@ -1,0 +1,68 @@
+/* coustom css start */
+
+body{
+
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+
+
+}
+/* font start */
+    @font-face {
+    	font-family: 'Poppins', sans-serif;
+    	src: url('../font/Poppins (2)/Poppins-Bold.ttf');
+    }
+     @font-face {
+    	font-family: 'Poppins', sans-serif;
+    	src: url('../font/Poppins (2)/Poppins-Medium.ttf');
+    }
+     @font-face {
+    	font-family: 'Poppins', sans-serif;
+    	src: url('../font/Poppins (2)/Poppins-Regular.ttf');
+    }
+     @font-face {
+    	font-family: 'Roboto', sans-serif;
+    	src: url('../font/Roboto (1)/Roboto-Regular.ttf');
+    }
+/* font end */
+
+/* coustom css end*/
+header{
+	background-color: #F0FFF0;
+	padding: 5px 0;
+}
+.c_nav{
+	
+}
+.menu{}
+
+.menu ul li a{
+	line-height: 24px;
+	padding: 0 24px !important;
+    color: #000000 !important;
+    text-transform: capitalize;
+}
+
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+
+
+
+.c-signin{
+
+font-family: 'Roboto';
+font-weight: 400;
+color:white;
+padding: 12px 28px;
+background: #21B573;
+border: none;
+border-radius: 33px;
+
+}
+.c-signin:hover{
+	background-color:#FD511A;
+	color: white;
+}

@@ -1,0 +1,34 @@
+font--- Rubik
+         700
+
+         Roboto-400
+          poppins--
+          400
+          700
+          500
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+
+color-----
+bg-#F0FFF0;
+green-#56548C;
+black- #000000;
+hover- #FD511A;
+menu--
+
+Books
+courses
+others
+blog
+sign in
+
+
+
+
+
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto&family=Rubik:wght@700&display=swap" rel="stylesheet"> -->
